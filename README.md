@@ -13,15 +13,15 @@
 - Read about Flux Architecture
 - Redux
 - Read open sources and able to explain how it works
-+ https://github.com/gothinkster/react-redux-realworld-example-app
-+ https://github.com/reduxjs/react-redux
+    - https://github.com/gothinkster/react-redux-realworld-example-app
+    - https://github.com/reduxjs/react-redux
 
 # Redux/Flux in avandce
 - What is Redux Thunk
 - Problem when using Redux Thunk
-+ https://github.com/reduxjs/redux-thunk
-+ https://medium.com/@gethylgeorge/understanding-how-redux-thunk-works-72de3bdebc50
-+ https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522
+    - https://github.com/reduxjs/redux-thunk
+    - https://medium.com/@gethylgeorge/understanding-how-redux-thunk-works-72de3bdebc50
+    - https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522
 - Redux Obversable
 
 # Rx.js
